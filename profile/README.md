@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![hello-world](https://life-is-a-gift-horese.vercel.app/_next/image?url=%2Fassets%2Fblog%2Flogo.png&w=3840&q=75)
+![hello-world](https://storage.googleapis.com/zenn-user-upload/fef9ce08dbfe-20230531.png)
 
 </div>
 
