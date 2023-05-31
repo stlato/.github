@@ -6,8 +6,5 @@
 
 </div>
 
-# Hi there
-
-We aim to create tools for frontend dev.
-Accelerate development, less error prone, 120% cleaner code.
+We aim to create tools for frontend dev.<br/>
 Pull request and other contributes are always highly welcomed.
